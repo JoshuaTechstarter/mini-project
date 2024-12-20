@@ -20,9 +20,9 @@ Programmierung abdecken.
 5. **[Gerade oder ungerade](https://github.com/JoshuaTechstarter/mini-project/blob/main/gerade-ungerade.py)**: 
 ``Bestimmt, ob eine Zahl gerade oder ungerade ist.``
 
-Teilnehmer:
-1) Nassima
-2) Mete
-3) Dustin
-4) Darth Josh
-5) Sebastian
+**Teilnehmer:**
+- Nassima
+- Mete
+- Dustin
+- Joshua
+- Sebastian
