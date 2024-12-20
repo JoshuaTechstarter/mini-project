@@ -1,6 +1,6 @@
 user_input = input(print("\nGib einen Satz ein und ich zähle die Wörter"))
 
-print("Dein Satz ist : \n" + user_input)
+print(f"Dein Satz ist: \n {user_input}")
 
 ergebnis = user_input.count(" ") + 1
 
