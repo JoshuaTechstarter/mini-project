@@ -1,4 +1,4 @@
-user_input = input(print("\nGib einen Satz ein und ich zähle die Wörter"))
+user_input = input("\nGib einen Satz ein und ich zähle die Wörter: ")
 
 print(f"Dein Satz ist: \n {user_input}")
 
