@@ -1,14 +1,7 @@
-# Python3 code to demonstrate
-# to count words in string
+user_input = input(print("\nGib einen Satz ein und ich zähle die Wörter"))
 
-# initializing string
-test_string = "Geeksforgeeks is best Computer Science Portal"
+print("Dein Satz ist : \n" + user_input)
 
-# printing original string
-print("The original string is : " + test_string)
+ergebnis = user_input.count(" ") + 1
 
-# to count words in string
-res = test_string.count(" ") + 1
-
-# printing result
-print("The number of words in string are : " + str(res))
+print("\nDie Anzahl der Wörter beträgt : \n" + str(ergebnis))
