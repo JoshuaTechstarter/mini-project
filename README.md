@@ -4,11 +4,11 @@ Dieses Projekt enthält fünf einfache Python-Aufgaben, die grundlegende Konzept
 Programmierung abdecken.
 
 ## Aufgabenübersicht
-1. **[Primzahlenfinder](https://github.com/JoshuaTechstarter/mini-project/blob/main/prime-numbers.py)**: 
+1. **[Primzahlenfinder](https://github.com/JoshuaTechstarter/mini-project/blob/main/aufgabe1_prime-numbers.py)**: 
 ``Überprüft, ob eine Zahl eine Primzahl ist.``
 
    
-2. **[Zahl erraten](https://github.com/JoshuaTechstarter/mini-project/blob/main/zahlen_raten_aufgabe_2.py)**: 
+2. **[Zahl erraten](https://github.com/JoshuaTechstarter/mini-project/blob/main/aufgabe2_zahlen_raten.py)**: 
 ``Ein Spiel, bei dem der Benutzer eine Zahl zwischen 1 und 10 errät.``
 
 3. **[Temperaturumrechnung](https://github.com/JoshuaTechstarter/mini-project/blob/main/aufgabe3_temperatur.py)**: 
@@ -17,7 +17,7 @@ Programmierung abdecken.
 4. **[Wörter zählen](https://github.com/JoshuaTechstarter/mini-project/blob/main/aufgabe4_woerter_zaehlen.py)**: 
 ``Zählt die Wörter in einem eingegebenen Satz.``
 
-5. **[Gerade oder ungerade](https://github.com/JoshuaTechstarter/mini-project/blob/main/gerade-ungerade.py)**: 
+5. **[Gerade oder ungerade](https://github.com/JoshuaTechstarter/mini-project/blob/main/aufgabe5_gerade-ungerade.py)**: 
 ``Bestimmt, ob eine Zahl gerade oder ungerade ist.``
 
 **Teilnehmer:**
