@@ -13,7 +13,7 @@ if int(chosen_number) > secret_number:
 elif int(chosen_number) < secret_number:
     print("oh damn, that's lower than expected :(")
 else:
-    print("JAAAAAAAAAAAAAAAAAAACKPOT!!!!")
+    print("WOW, you're a little one hit wonder huh?")
 
 richtig = False
 
