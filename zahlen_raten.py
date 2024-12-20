@@ -1,6 +1,6 @@
 import random
 
-secret_number = random.randint(1, 100)
+secret_number = random.randint(1, 10)
 
 print("Random number generated! Good luck with your choice ;)")
 
