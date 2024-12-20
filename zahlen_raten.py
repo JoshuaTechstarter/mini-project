@@ -26,3 +26,4 @@ while not richtig:
     else:
         print("JAAAAAAAAAAAAAAAAAAACKPOT!!!!")
         richtig = True
+# Hallo ich sehe dich
